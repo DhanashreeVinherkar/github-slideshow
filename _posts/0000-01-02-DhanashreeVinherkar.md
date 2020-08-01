@@ -1,5 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-ok
+**Everything happens for a reason**
